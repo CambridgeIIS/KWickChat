@@ -21,12 +21,7 @@ We built the language generation model based on the code structure from <a href=
 ### Trained Model 
 The trained languge generation model introduced in the paper can be downloaded from <a href="https://drive.google.com/file/d/18UKpfjClRVClnZD590JIoaqb8AsJ4365/view?usp=sharing">Google Drive</a>.
 
-### Command-Line Interface
-We provide a command-line interface as a demo for KWickChat language generation model. 
-```
- $ cd KWickChat	
- $ python interact.py
-```  
+
 
 #### Usage
 - **Setting dependencies** 
@@ -34,7 +29,14 @@ We provide a command-line interface as a demo for KWickChat language generation 
   $ pip install -r requrements.txt
 ```
 
-- **Set Parameters**
+- **Train the model**
 ```
   $ python train.py
 ```
+
+- **Command-Line Interface**
+We provide a command-line interface as a demo for KWickChat language generation model. 
+```
+ $ cd KWickChat	
+ $ python interact.py
+```  
