@@ -25,7 +25,9 @@ The trained languge generation model introduced in the paper can be downloaded f
 
 #### Usage
 - **Setting dependencies** 
+Docker is recommended to set up the environments.
 ```
+  $ docker push shawnshenjx1996/kwickchat
   $ pip install -r requrements.txt
 ```
 
