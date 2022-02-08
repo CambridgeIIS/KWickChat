@@ -15,4 +15,5 @@ This is not a user evaluation but rather a semantic analysis complementary to th
 Both judges reported a median rating of 4 on a scale from 1 (very bad) to 5 (very good) for the best generated sentence in each exchange and achieved an inter-rater reliability of 0.92 across all 400 sentences judged.
 
 The implementations in this repository can enable readers better replicate our experiments. 
-We build the language generation model based on the code structure from <a href="https://github.com/huggingface/transfer-learning-conv-ai">.
+We build the language generation model based on the code structure from <a href="https://github.com/huggingface/transfer-learning-conv-ai">transfer-learning-conv-ai
+</a>.
